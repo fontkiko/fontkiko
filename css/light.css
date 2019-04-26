@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Kiko';
+  src: url("../webfonts/fontkikolight.eot") format("embedded-opentype"), url("../webfonts/fontkikolight.woff") format("woff"), url("../webfonts/fontkikolight.woff2") format("woff2"), url("../webfonts/fontkikolight.otf") format("opentype");
+  font-weight: 300;
+  font-style: light; }
+
+.kikol {
+  font-family: 'Kiko';
+  font-weight: 300; }

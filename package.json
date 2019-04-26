@@ -1,0 +1,30 @@
+{
+  "name": "fontskiko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontkiko/fontkiko.git"
+  },
+  "keywords": [
+    "fontkiko",
+    "fonts",
+    "fontskiko",
+    "kiko",
+    "kiko",
+    "icons",
+    "kikoicons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fontkiko/fontkiko/issues"
+  },
+  "homepage": "https://github.com/fontkiko/fontkiko#readme"
+}
