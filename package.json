@@ -15,16 +15,15 @@
   "keywords": [
     "fontkiko",
     "fonts",
-    "fontskiko",
-    "kiko",
+    "fonts kiko",
     "kiko",
     "icons",
-    "kikoicons"
+    "kiko icons"
   ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fontkiko/fontkiko/issues"
   },
-  "homepage": "https://github.com/fontkiko/fontkiko#readme"
+  "homepage": "https://github.com/fontkiko/fontkiko"
 }
