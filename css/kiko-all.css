@@ -779,31 +779,31 @@
   content: '\f260'; }
 
 @font-face {
-  font-family: 'Kiko-Light';
+  font-family: 'Kiko';
   src: url("../webfonts/fontkikolight.eot") format("embedded-opentype"), url("../webfonts/fontkikolight.woff") format("woff"), url("../webfonts/fontkikolight.woff2") format("woff2"), url("../webfonts/fontkikolight.otf") format("opentype");
   font-weight: 300;
   font-style: light; }
 
 .kikol {
-  font-family: 'Kiko-Light';
+  font-family: 'Kiko';
   font-weight: 300; }
 
 @font-face {
-  font-family: 'Kiko-Regular';
+  font-family: 'Kiko';
   src: url("../webfonts/fontkikoreg.eot") format("embedded-opentype"), url("../webfonts/fontkikoreg.woff") format("woff"), url("../webfonts/fontkikoreg.woff2") format("woff2"), url("../webfonts/fontkikoreg.otf") format("opentype");
   font-weight: normal;
   font-style: normal; }
 
 .kikor {
-  font-family: 'Kiko-Regular';
+  font-family: 'Kiko';
   font-weight: normal; }
 
 @font-face {
-  font-family: 'Kiko-Solid';
+  font-family: 'Kiko';
   src: url("../webfonts/fontkikosolid.eot") format("embedded-opentype"), url("../webfonts/fontkikosolid.woff") format("woff"), url("../webfonts/fontkikosolid.woff2") format("woff2"), url("../webfonts/fontkikosolid.otf") format("opentype");
   font-weight: 600;
   font-style: bold; }
 
 .kikos {
-  font-family: 'Kiko-Solid';
+  font-family: 'Kiko';
   font-weight: 600; }
