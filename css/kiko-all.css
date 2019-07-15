@@ -991,6 +991,156 @@
 .kiko-desktop-computer:before {
   content: '\f273'; }
 
+.kiko-anchor:before {
+  content: '\f331'; }
+
+.kiko-calendar:before {
+  content: '\f332'; }
+
+.kiko-schedule:before {
+  content: '\f333'; }
+
+.kiko-address-book:before {
+  content: '\f334'; }
+
+.kiko-facebook:before {
+  content: '\f335'; }
+
+.kiko-twitter:before {
+  content: '\f336'; }
+
+.kiko-dribbble:before {
+  content: '\f337'; }
+
+.kiko-behance:before {
+  content: '\f338'; }
+
+.kiko-pinterest:before {
+  content: '\f339'; }
+
+.kiko-vkontakte:before {
+  content: '\f340'; }
+
+.kiko-odnoklassniki:before {
+  content: '\f341'; }
+
+.kiko-flipboard:before {
+  content: '\f342'; }
+
+.kiko-whatsapp:before {
+  content: '\f343'; }
+
+.kiko-blogger:before {
+  content: '\f344'; }
+
+.kiko-evernote:before {
+  content: '\f345'; }
+
+.kiko-gmail:before {
+  content: '\f346'; }
+
+.kiko-line:before {
+  content: '\f347'; }
+
+.kiko-myspace:before {
+  content: '\f348'; }
+
+.kiko-pocket:before {
+  content: '\f349'; }
+
+.kiko-skype:before {
+  content: '\f350'; }
+
+.kiko-viadeo:before {
+  content: '\f351'; }
+
+.kiko-xing:before {
+  content: '\f352'; }
+
+.kiko-linkedin:before {
+  content: '\f353'; }
+
+.kiko-naver:before {
+  content: '\f354'; }
+
+.kiko-stumbleupon:before {
+  content: '\f355'; }
+
+.kiko-viber:before {
+  content: '\f356'; }
+
+.kiko-snapchat:before {
+  content: '\f357'; }
+
+.kiko-yammer:before {
+  content: '\f358'; }
+
+.kiko-digg:before {
+  content: '\f359'; }
+
+.kiko-messenger:before {
+  content: '\f360'; }
+
+.kiko-live-journal:before {
+  content: '\f361'; }
+
+.kiko-newsvine:before {
+  content: '\f362'; }
+
+.kiko-qzone:before {
+  content: '\f363'; }
+
+.kiko-telegram:before {
+  content: '\f364'; }
+
+.kiko-yummly:before {
+  content: '\f365'; }
+
+.kiko-douban:before {
+  content: '\f366'; }
+
+.kiko-flattr:before {
+  content: '\f367'; }
+
+.kiko-hatena:before {
+  content: '\f368'; }
+
+.kiko-reddit:before {
+  content: '\f369'; }
+
+.kiko-tumblr:before {
+  content: '\f370'; }
+
+.kiko-weibo:before {
+  content: '\f371'; }
+
+.kiko-google:before {
+  content: '\f372'; }
+
+.kiko-yandex:before {
+  content: '\f373'; }
+
+.kiko-share:before {
+  content: '\f374'; }
+
+.kiko-yandex-aura:before {
+  content: '\f375'; }
+
+.kiko-wechat:before {
+  content: '\f376'; }
+
+.kiko-baidu:before {
+  content: '\f377'; }
+
+.kiko-bing:before {
+  content: '\f378'; }
+
+.kiko-like:before {
+  content: '\f379'; }
+
+.kiko-unlike:before {
+  content: '\f380'; }
+
 @font-face {
   font-family: 'Kiko';
   src: url("../webfonts/fontkikolight.eot") format("embedded-opentype"), url("../webfonts/fontkikolight.woff") format("woff"), url("../webfonts/fontkikolight.woff2") format("woff2"), url("../webfonts/fontkikolight.otf") format("opentype"), url("../webfonts/fontkikolight.svg") format("svg");
